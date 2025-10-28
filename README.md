@@ -10,7 +10,7 @@ This machine learning project aims to predict whether a person will donate blood
 - **Analysis** : Understand the factors that influence blood donation behavior
 - **Optimization** : Identify population segments most likely to donate
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains **748 observations** with the following variables:
 
@@ -59,7 +59,7 @@ Several machine learning algorithms were tested with class imbalance handling:
 - **Cross-validation** : 5-fold cross-validation
 - **Confusion matrix** : Analysis of classification errors
 
-## 📈 Key Results
+## Key Results
 
 ### Model Performance Summary
 - **Best Overall** : Gradient Boosting (78.67% accuracy, 81.98% AUC, 73.44% F1-score)
@@ -78,12 +78,31 @@ Several machine learning algorithms were tested with class imbalance handling:
 ## Visualizations
 
 The project includes numerous visualizations:
-- **Histograms** of variable distributions
-- **Box plots** to detect outliers
-- **Correlation matrix** with heatmap
-- **Class distributions** to understand patterns
-- **Model performance charts**
-- **Feature importance** with colored bars
+
+### Variable Distribution
+Distribution analysis of all features in the dataset:
+
+![Variable Distribution](Variable%20distribution.png)
+
+### Box Plot Analysis
+Detection of outliers and data dispersion:
+
+![Box Plot](Box%20plot.png)
+
+### Correlation Matrix
+Heatmap showing relationships between variables:
+
+![Correlation Matrix](Correlation.png)
+
+### Model Performance Comparison
+Comparative analysis of all tested models:
+
+![Model Comparison](Model%20Comparaison.png)
+
+### Feature Importance
+Importance of each feature in the prediction model:
+
+![Feature Importance](Feature%20Importance.png)
 
 ## 🛠️ Technologies Used
 
