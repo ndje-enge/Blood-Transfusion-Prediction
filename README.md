@@ -82,27 +82,27 @@ The project includes numerous visualizations:
 ### Variable Distribution
 Distribution analysis of all features in the dataset:
 
-![Variable Distribution](Variable%20distribution.png)
+![Variable Distribution](Visualizations/Variable%20distribution.png)
 
 ### Box Plot Analysis
 Detection of outliers and data dispersion:
 
-![Box Plot](Box%20plot.png)
+![Box Plot](Visualizations/Box%20plot.png)
 
 ### Correlation Matrix
 Heatmap showing relationships between variables:
 
-![Correlation Matrix](Correlation.png)
+![Correlation Matrix](Visualizations/Correlation.png)
 
 ### Model Performance Comparison
 Comparative analysis of all tested models:
 
-![Model Comparison](Model%20Comparaison.png)
+![Model Comparison](Visualizations/Model%20Comparaison.png)
 
 ### Feature Importance
 Importance of each feature in the prediction model:
 
-![Feature Importance](Feature%20Importance.png)
+![Feature Importance](Visualizations/Feature%20Importance.png)
 
 ## 🛠️ Technologies Used
 
